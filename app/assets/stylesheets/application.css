@@ -49,3 +49,13 @@ html, body {
   font-size: 45px;
   letter-spacing: 11px;
 }
+footer a {
+  text-transform: uppercase;
+  font-weight: bolder;
+  padding:10px;
+  color:white;
+  opacity: 0.2;
+}
+footer a:hover {
+  text-decoration: none;
+}
