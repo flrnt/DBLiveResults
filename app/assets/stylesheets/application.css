@@ -30,6 +30,9 @@ html, body {
   align-items:center;
   height: 100%;
 }
+.col-xs-6 {
+    width: 40%;
+}
 
 #head-title, #sub-title {
   font-family: sans-serif;
@@ -52,9 +55,10 @@ html, body {
 footer a {
   text-transform: uppercase;
   font-weight: bolder;
-  padding:10px;
-  color:white;
-  opacity: 0.2;
+  letter-spacing: 3px;
+  padding: 10px;
+  color: white;
+  opacity: 0.25;
 }
 footer a:hover {
   text-decoration: none;
